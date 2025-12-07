@@ -107,7 +107,7 @@ blog-platform/
 
 
 Example:
-screenshots/home.png
+screenshots/Home Page.png
 screenshots/create_post.png
 screenshots/analytics.png
 screenshots/blog_post.png
@@ -120,23 +120,33 @@ screenshots/search.png
 ## ⚙️ **Installation & Setup**
 
 ### 1️⃣ Clone the repository
-```bash
+
 git clone https://github.com/Anshi1310/blog-platform.git
+
 cd blog-platform
-2️⃣ Create and activate virtual environment
+
+
+### 2️⃣ Create and activate virtual environment
+
 python -m venv venv
 source venv/Scripts/activate   # Windows
 
-3️⃣ Install dependencies
+
+### 3️⃣ Install dependencies
+
 pip install -r requirements.txt
 
-4️⃣ Apply migrations
-python manage.py migrate
 
-5️⃣ Run the server
+### 5️⃣ Run the server
+
 python manage.py runserver
 
-🤝 Future Improvements
+
+---
+
+
+## 🚀 **Future Improvements**
+
 Integrate OpenAI API for:
 
 Semantic Search
@@ -147,22 +157,34 @@ AI Tag & Category Suggestions
 
 AI Summaries
 
-Dark mode
+Add dark mode
 
-Post scheduling
+Post scheduling system
 
-Follow authors
+Followers & personalized feeds
 
 Email notifications
 
-Deploy on Render/Railway
+Deployment on Render/Railway
 
-Switch to PostgreSQL
+Switch database to PostgreSQL for production
 
-📄 License
+
+---
+
+
+## 📄 **License**
+
 This project is licensed under the MIT License.
 
-👩‍💻 Author
+
+---
+
+
+## 👩‍💻 **Author**
+
 Anshita Gautam
 Aspiring Web Developer | Python & Django | Frontend Enthusiast
+
 GitHub: https://github.com/Anshi1310
+
