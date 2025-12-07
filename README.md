@@ -59,19 +59,13 @@ These features are fully designed and **UI-ready**, but require integration with
 
 ## 🛠 **Tech Stack**
 
-**Frontend:**  
-- HTML, CSS  
-- JavaScript  
-- Responsive UI  
+- **Backend:** Django, SQLite / PostgreSQL  
+- **Frontend:** HTML, CSS, Bootstrap  
+- **AI:** OpenAI embeddings  
+- **Authentication:** Django auth system  
+- **Storage:** Local media storage  
+- **Deployment:** Render/Railway (planned)
 
-**Backend:**  
-- Django  
-- Django ORM  
-- SQLite (default; upgrade-ready to PostgreSQL)
-
-**Others:**  
-- Django Auth  
-- Django Admin Panel  
 
 ---
 
@@ -103,21 +97,51 @@ blog-platform/
 
 ---
 
-## 📸 **Screenshots**
+# 📸 **Screenshots**
 
+Visual walkthrough of the platform:
 
-Example:
-screenshots/homepage.png
+## 🏠 Homepage  
+![Homepage](screenshots/homepage.png)
 
-screenshots/create_post.png
+## 📰 Blog Post View  
+![Blog Post](screenshots/blog_post.png)
 
-screenshots/analytics.png
+## ✍️ Create New Post  
+![Create Post](screenshots/create_post.png)
 
-screenshots/blog_post.png
+## 🧠 AI Semantic Search  
+![Semantic Search](screenshots/semantic_search.png)
 
-screenshots/profile.png
+## 🔍 Search & Filter  
+![Search Filter](screenshots/search_filter.png)
 
-screenshots/search.png
+## 👤 Profile Page  
+![Profile Page](screenshots/profile_page.png)
+
+## 📝 Edit Profile  
+![Edit Profile](screenshots/edit_profile.png)
+
+## 🔔 Notifications  
+![Notifications](screenshots/notifications.png)
+
+## 📊 Analytics Dashboard  
+![Analytics](screenshots/analytics_dashboard.png)
+
+## ⚙️ Admin Panel  
+![Admin Settings](screenshots/admin_settings.png)
+
+## 📄 Features Overview  
+![Features](screenshots/features.png)
+
+## 📘 About Page  
+![About Page](screenshots/about_page.png)
+
+## 🔐 Login  
+![Login](screenshots/login.png)
+
+## 🆕 Register  
+![Register](screenshots/register.png)
 
 
 ---
