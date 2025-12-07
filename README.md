@@ -107,11 +107,16 @@ blog-platform/
 
 
 Example:
-screenshots/Home Page.png
+screenshots/homepage.png
+
 screenshots/create_post.png
+
 screenshots/analytics.png
+
 screenshots/blog_post.png
+
 screenshots/profile.png
+
 screenshots/search.png
 
 
